@@ -1,0 +1,2 @@
+# EasingCurve
+Curve interpolator
